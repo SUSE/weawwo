@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sinatra', '~> 2.0'
+gem 'sinatra', '~> 2.2'
 gem 'tracker_api', '~> 1.10'
 gem 'octokit', '~> 4.0'
 gem 'jira-ruby', '~> 2.0'
